@@ -91,10 +91,9 @@
   visibility: visible;
 }
 
-}
 .gt {
   display: inline-block;
-  color: green;
+  color: #00FF00;
   font-family: Brush Script MT;
   text-align: justify;
 }
@@ -123,7 +122,6 @@
   visibility: visible;
 }
 
-}
 .bt {
   display: inline-block;
   color: blue;
@@ -155,7 +153,6 @@
   visibility: visible;
 }
 
-}
 .it {
   display: inline-block;
   color: indigo;
@@ -187,8 +184,6 @@
   visibility: visible;
 }
 
-
-}
 .vt {
   display: inline-block;
   color: mediumpurple;
